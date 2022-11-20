@@ -113,6 +113,8 @@ Files:
 Files are at 2 locations, Github and Google Drive
 
 ### Github
+https://github.com/jzedwards/jzsquadleader
+
 Github is for saving and sharing (programming) code. It it really designed for text (source code) files and handles changes and revisions. However, it also previews SVG, so is quite nice for sharing the counters. It also saves versions, so I can revise and update any errors. However, GitHub is not good for *binary* files (eg excel, images) so those are shared on GDrive
 
 ### Google Drive
