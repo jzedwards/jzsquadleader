@@ -5,7 +5,7 @@
 - *Filename* `jzsquadleader-counters-readme-v10.md`
 ***
 
-## Introduction
+## Introduction to jzsquadleader
 This content is a new version of counter sheets for Squad Leader, available in 3 formats
 - individual counters in SVG
 - sheets of counters, in the original layout (SVG and PNG)
