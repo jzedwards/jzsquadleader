@@ -43,7 +43,7 @@ Examples:
 `c_art_50.svg` - 50mm artillery  
 `c_broke_ldr_ge_8.svg` - Broken German leader, morale 8
 
-*Note:* if you open the SVG files in an editor (Illustrator or Inkscape) they will **not** be 1/2" or 5/8". This is because AI uses 72ppi (pixels per inch) for the size - so an 800x800 counter is 11.11" in Illustrator (!) and Inkscape uses 96ppi (8.33"). If you want a 1/2" counter for priting, create a 1/2" grid and drop the image in and snap to grid. See [Resolution](#resolution) below.
+*Note:* if you open the SVG files in an editor (Illustrator or Inkscape) they will **not** be 1/2" or 5/8". This is because AI uses 72ppi (pixels per inch) for the size - so an 800x800 counter is 11.11" in Illustrator (!) and Inkscape uses 96ppi (8.33"). If you want a 1/2" counter for printing, create a 1/2" grid and drop the image in and snap to grid. See [Resolution](#resolution) below.
 
 ### SVG Compression
 We use [svgo](#svgo) to compress SVGs. This reduces text info and typically halves the file sizes. You can try it with *nano* https://vecta.io/nano or if you are tech capable install node.js and svgo from GitHub https://github.com/svg/svgo
